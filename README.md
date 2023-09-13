@@ -1,1 +1,1 @@
-# Dice-game-React-
+# Dice-game-React
